@@ -1,4 +1,4 @@
-@tydus0708 is a senior web developer experienced in all stages of web development.
+@tydus0708 is a Lead Full Stack JavaScript Developer.
 
 He's always open to help others!
 
