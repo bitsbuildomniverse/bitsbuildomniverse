@@ -4,7 +4,7 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
   <h2>
-    A Senior Full Stack JavaScript Engineer From US
+    A Senior Full Stack JavaScript Engineer
   </h2>
   <p>
     I eat <b>JavaScript/TypeScript</b> for 🥓breakfast, <b>React</b> for 🥪lunch, <b>Node.js</b> for 🍖dinner and still have plenty of space for 🍹dessert!
